@@ -34,14 +34,25 @@ The main difference between Neumorphism and Skeumorphism is that Skeumorphism on
 
 ##### React Native 
 - [neumorphism-ui](https://github.com/usamamoinakhter/Neumorphism-ui) - React Native components based on the concept of Neumorphism (iOS only)
+- [react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) - Neumorphism/Neomorphism UI shadows for iOS & Android, include SVG inner/outer shadow component powered with react-native-svg, which can provide shadow on Android identical like iOS.
 
 #### Dart
 
 ##### Flutter
 - [neumorphic.flutter](https://pub.dev/packages/neumorphic) - Implementation of Neumorphism user interface consisting of sets of principles and widgets for the Flutter framework
 
-##### Design Ideas
+#### Android 
+- [Awesome-Neumorphism-Android-Library](https://github.com/GovindaPaliwal/Awesome-Neumorphism-Android-Library) - Native android library to easily convert android views to Neumorphism UI pattern view in Android app without create any custom drawable
+- [Neumorphism in Android](https://github.com/fornewid/neumorphism) - This is the experimental codes to build Neumorphism designs in Android. Not a library. Just sample project now.
+
+#### Swift
+- [Neumorphic SwiftUI](https://github.com/costachung/neumorphic) - Neumorphic is a SwiftUI utility to build Neumorphism Soft UI (supports both outer shadow and inner shadow)
+- [NeumorphismUI](https://github.com/tsuzukihashi/NeumorphismUI) - NeumorphismUI is a library that can be used with SwiftUI. Compatible with Swift Package Manager.
+
+
+### Design Ideas
 - [Dribble](https://dribbble.com/tags/neumorphism) - Neumorphism designs, themes, templates and downloadable graphic elements on Dribbble
+
 
 ### Articles :
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6?gi=e0623a729dab) - How UI trends reach for inspiration into the real world and what problems do we have to solve to make those trends work.
