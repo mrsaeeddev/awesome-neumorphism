@@ -15,3 +15,12 @@ But then.....
 Neumorphism came. It got her name from 'New Skeumorphism'. Neumorphism got popular.
 
 The main difference between Neumorphism and Skeumorphism is that Skeumorphism only focused on using shadows or gradients. However, Neumorphism focuses on using shadows to create design components which are raised from root layer or vice versa. This gives designs a transition from life-less representations to something more real and close to the world in which we live. And that's the motivation for this library.
+
+# Resources
+- [UI Toolkits] (#ui-toolkits)
+- [Design Ideas] (#design-ideas)
+
+### UI Toolkits
+- [Neumorphic-UI] (https://neumorphic-ui.netlify.com/) - A library of React components based on the concept of Neumorphism
+- [Neomorphism] (https://ismail9k.github.io/neomorphism/) - UI components library in the new neomorphism design style
+- 
