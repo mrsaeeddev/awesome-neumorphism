@@ -39,7 +39,7 @@ The main difference between Neumorphism and Skeumorphism is that Skeumorphism on
 ##### Flutter
 - [neumorphic.flutter](https://pub.dev/packages/neumorphic) - Implementation of Neumorphism user interface consisting of sets of principles and widgets for the Flutter framework
 
-##### Design Ideas]
+##### Design Ideas
 - [Dribble](https://dribbble.com/tags/neumorphism) - Neumorphism designs, themes, templates and downloadable graphic elements on Dribbble
 
 ### Articles :
