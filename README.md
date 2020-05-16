@@ -2,6 +2,7 @@
 
 A curated list of awesome things related to the concept of Neumorphism
 
+![alt text](logo.png "Logo Title Text 1")
 
 # What's Neumorphism ?
 
