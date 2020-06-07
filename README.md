@@ -58,7 +58,7 @@ The main difference between Neumorphism and Skeumorphism is that Skeumorphism on
 
 #### Python
 ##### Django
-- [Neumorphism UI](https://github.com/app-generator/django-neumorphism-uikit) - Django Web App - Neumorphism UI Kit | AppSeed 
+- [Django Neumorphism UI Kit](https://github.com/app-generator/django-neumorphism-uikit) - Django Web App - Neumorphism UI Kit | AppSeed 
 
 ### Design Ideas
 - [Dribble](https://dribbble.com/tags/neumorphism) - Neumorphism designs, themes, templates and downloadable graphic elements on Dribbble
