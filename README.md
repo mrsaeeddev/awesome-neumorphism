@@ -56,6 +56,9 @@ The main difference between Neumorphism and Skeumorphism is that Skeumorphism on
 - [Neumorphic SwiftUI](https://github.com/costachung/neumorphic) - Neumorphic is a SwiftUI utility to build Neumorphism Soft UI (supports both outer shadow and inner shadow)
 - [NeumorphismUI](https://github.com/tsuzukihashi/NeumorphismUI) - NeumorphismUI is a library that can be used with SwiftUI. Compatible with Swift Package Manager.
 
+#### Python
+##### Django
+- [Neumorphism UI](https://github.com/app-generator/django-neumorphism-uikit) - Django Web App - Neumorphism UI Kit | AppSeed 
 
 ### Design Ideas
 - [Dribble](https://dribbble.com/tags/neumorphism) - Neumorphism designs, themes, templates and downloadable graphic elements on Dribbble
