@@ -68,6 +68,8 @@ The main difference between Neumorphism and Skeumorphism is that Skeumorphism on
 ### Articles :
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6?gi=e0623a729dab) - How UI trends reach for inspiration into the real world and what problems do we have to solve to make those trends work.
 - [Neumorphism the right way — A 2020 Design Trend](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a) - This article explains the things behind this trend and then dives deep into the tools that can be used to make a neumorphic design
+- [Neumorphism- The hottest design trend in 2020.](https://uxplanet.org/neomorphism-the-hottest-design-trend-in-2020-8bd65de77a5e) - In this article, the author discusses what Neumorphism is and how to get started on creating a basic Neumorphic element.
+
 
 ### Contributions
 Feel free to contribute. If you have worked on something amazing related to the concept of Neumorphism or you think I missed something in this list, feel free to add it to the list or share your ideas with me.
